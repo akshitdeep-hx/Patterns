@@ -1,5 +1,9 @@
 /*
-
+ A B C D E F G H I 
+   A           G 
+     A       E 
+       A   C 
+         A 
 */
 
 #include<stdio.h>
